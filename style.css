@@ -44,7 +44,7 @@ nav a:hover {
 /* Apply styles to the homepage banner section */
 .homepage-banner {
     position: relative;
-    background-image: url('Images/ACOdyssey_GreeceEstablishingShot.jpg');
+    background-image: url('ACOdyssey_GreeceEstablishingShot.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh; /* Adjust as needed */
